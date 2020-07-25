@@ -1,0 +1,10 @@
+{
+  "notebooks": {
+    "05-cifar10-cnn.ipynb": {
+      "slug": "28ac42cbfa8d48888fbc723fc6568686"
+    },
+    "assignment-5.ipynb": {
+      "slug": "bb26bf0bab8545489e2273658843ecd5"
+    }
+  }
+}
